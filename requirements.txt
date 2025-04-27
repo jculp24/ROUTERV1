@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+httpx
+pydantic
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+requests
+openai
+anthropic
+langchain
+pytest
+python-jose
+passlib[bcrypt]
+croniter
